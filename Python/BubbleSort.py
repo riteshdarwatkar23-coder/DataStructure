@@ -1,3 +1,8 @@
+# AUTHOR : RITESH DARWATKAR
+# DATE : 11 MAY 2026
+# NAME : BubbleSort
+
+
 def main():
     n = int(input("Enter number of elements: "))
     arr = []
