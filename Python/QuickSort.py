@@ -1,3 +1,8 @@
+#AUTHOR : RITESH DARWATKAR
+#DATE : 12 MAY 2026
+#NAME : QuickSort
+
+
 def partition(arr,low,high):
     pivot = arr[high]
     i = low - 1
