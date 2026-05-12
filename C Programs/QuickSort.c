@@ -1,3 +1,7 @@
+//AUTHOR : RITESH DARWATKAR
+//DATE : 12 MAY 2026
+//NAME : QuickSort
+
 #include <stdio.h>
 
 void swap(int *a,int *b) {
