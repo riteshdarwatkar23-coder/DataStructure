@@ -1,3 +1,7 @@
+#AUTHOR : RITESH DARWATKAR
+#NAME : Stack
+#DATE : 16 MAY 2026
+
 stack = []
 stack.append('a')
 stack.append('b')
